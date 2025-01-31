@@ -15,8 +15,8 @@ Make sure you have **Node.js (>=16.9.0)** installed.
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/LALAM.git
-cd LALAM
+git clone https://github.com/darktheopest/LBLAM.git
+cd LBLAM
 
 # Install dependencies
 npm install
