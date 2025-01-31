@@ -10,7 +10,7 @@ export default class createEmoji extends Listener {
     }
     public async run(message: Message) {
         if (message.author.bot
-            || message.channelId !== '1334795112881979394'
+            || message.channelId !== this.container.client._config.emojiUploaderChannelId
             || message.content
             || !message.attachments
         ) return;

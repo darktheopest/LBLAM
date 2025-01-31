@@ -22,7 +22,8 @@ const config = {
 	prefix: ['lbl.'],
 	developers: ['926643835419910184', '921368997482602536'],
 	mainGuildId: '1334534198941192272',
-	updateChannelId: '1334534198941192275'
+	updateChannelId: '1334534198941192275',
+	emojiUploaderChannelId: '1334795112881979394'
 }
 
 export default config;
